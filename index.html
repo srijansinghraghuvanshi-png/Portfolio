@@ -1,0 +1,263 @@
+ <!doctype html>
+<html lang="hi" data-theme="">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Srijan Singh — Portfolio</title>
+  <meta name="description" content="Srijan Singh — Software Developer Portfolio" />
+
+  <!--
+    Inline script: apply saved theme (or system) BEFORE CSS loads to avoid flash.
+    This minimal JS is required to make the toggle persistent and avoid FOUC.
+  -->
+  <script>
+    (function() {
+      try {
+        const stored = localStorage.getItem('theme'); // "light" / "dark" or null
+        if (stored === 'light' || stored === 'dark') {
+          document.documentElement.setAttribute('data-theme', stored);
+        } else {
+          // use system preference if nothing stored
+          const prefersDark = window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches;
+          document.documentElement.setAttribute('data-theme', prefersDark ? 'dark' : 'light');
+        }
+      } catch (e) {
+        // If anything fails, fall back to light
+        document.documentElement.setAttribute('data-theme', 'light');
+      }
+    })();
+  </script>
+
+  <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+  <div class="card">
+
+    <header>
+      <img src="WhatsApp Image 2025-12-07 at 5.02.33 PM.jpeg " alt="Srijan Singh"class="avatar-img">
+
+      <div class="header-text">
+        <h1>Srijan Singh</h1>
+        <div class="role">Aspiring Software Developer • CS50 • IBM Data Fundamentals</div>
+        <div class="meta">Ghaziabad, India • 
+          <a class="link" href="mailto:srijansinghraghuvanshi@gmail.com">srijansinghraghuvanshi@gmail.com</a> • 9696197519
+        </div>
+      </div>
+
+      <!-- Theme toggle -->
+      <div class="theme-toggle-wrap" aria-hidden="false">
+        <button id="theme-toggle" class="theme-toggle" aria-pressed="false" aria-label="Toggle light and dark theme">
+          <span class="icon icon-sun" aria-hidden="true">☀️</span>
+          <span class="icon icon-moon" aria-hidden="true">🌙</span>
+        </button>
+      </div>
+    </header>
+
+    <main>
+      <section class="left-col">
+
+        <!-- SUMMARY -->
+        <div class="about">
+          <h2 class="section-title">Summary</h2>
+          <p class="bio">
+            I'm <strong>Srijan Singh</strong>, an aspiring software developer currently building strong fundamentals through
+            <strong>CS50 (Harvard)</strong> and <strong>IBM Data Fundamentals</strong>. I’m focused on improving problem-solving,
+            writing clean code, and understanding how real systems work.
+          </p>
+
+          <p class="bio">
+            I enjoy working with C, HTML & CSS, and creating small but meaningful projects like games and interactive pages.
+            My long-term goal is to become a skilled developer contributing to industry-level engineering teams.
+          </p>
+
+          <!-- SKILLS -->
+          <h3 class="section-title small">Technical Skills</h3>
+
+          <div class="skills">
+            <span class="skill">HTML</span>
+            <span class="skill">CSS</span>
+            <span class="skill">Responsive Design</span>
+
+            <span class="skill">C Programming (CS50)</span>
+            <span class="skill">Pointers & Memory</span>
+            <span class="skill">Arrays & Strings</span>
+            <span class="skill">Algorithms</span>
+            <span class="skill">Data Structures</span>
+
+            <span class="skill">Git & GitHub</span>
+            <span class="skill">Debugging</span>
+            <span class="skill">Problem Solving</span>
+
+            <span class="skill">IBM Data Fundamentals</span>
+            <span class="skill">Data Lifecycle</span>
+            <span class="skill">Data Ethics</span>
+            <span class="skill">Data Visualization</span>
+            <span class="skill">SQL Basics</span>
+          </div>
+        </div>
+
+        <!-- PROJECTS -->
+        <h3 class="section-title">Projects</h3>
+
+        <div class="projects">
+
+          <article class="project">
+            <h4>Portfolio Website (this site)</h4>
+            <p>A clean, responsive portfolio built with HTML & CSS.</p>
+            <div class="tags">
+              <span class="tag">HTML</span><span class="tag">CSS</span>
+            </div>
+            <div class="links">
+              <a href="https://srijansinghraghuvanshi-png.github.io/portfolio/" target="_blank">Live</a> |
+              <a href="https://github.com/srijansinghraghuvanshi-png/portfolio" target="_blank">Source</a>
+            </div>
+          </article>
+
+          <article class="project">
+            <h4>CS50 Problem Sets</h4>
+            <p>Solutions for CS50 problems focusing on algorithms, memory, and C programming.</p>
+            <div class="tags">
+              <span class="tag">C</span><span class="tag">Algorithms</span>
+            </div>
+          </article>
+
+          <article class="project">
+            <h4>Scratch Game Project</h4>
+            <p>Interactive Scratch game with scoring, collision handling and animations.</p>
+            <div class="tags">
+              <span class="tag">Scratch</span><span class="tag">Game</span>
+            </div>
+            <div class="links">
+              <a href="https://scratch.mit.edu/projects/1251575591" target="_blank">Play Game</a>
+            </div>
+          </article>
+
+        </div>
+
+        <!-- EXPERIENCE -->
+        <h3 class="section-title">Experience & Certifications</h3>
+
+        <div class="projects">
+
+          <article class="project">
+            <h4>Data Entry Operator — ARMEKA Financial Consultants Pvt. Ltd.</h4>
+            <p><em>Part-time • Jan 2025 – Jun 2025 • Pune (Remote)</em></p>
+            <p>
+              Worked on organizing, processing, and verifying company data using Excel.
+              Improved reporting accuracy and performed basic data analysis while maintaining strong attention to detail.
+            </p>
+            <div class="tags">
+              <span class="tag">Excel</span><span class="tag">Data Entry</span><span class="tag">Reporting</span>
+            </div>
+          </article>
+
+          <article class="project">
+            <h4>IBM — Data Fundamentals Certificate</h4>
+            <p>
+              Learned data lifecycle, governance, data quality, visualization concepts, and database basics.
+            </p>
+            <div class="tags">
+              <span class="tag">Data</span><span class="tag">Visualization</span><span class="tag">SQL</span>
+            </div>
+          </article>
+
+          <article class="project">
+            <h4>CS50 — Harvard University</h4>
+            <p>Learned computer science fundamentals including memory, algorithms, pointers, and problem solving.</p>
+            <div class="tags">
+              <span class="tag">C</span><span class="tag">Algorithms</span>
+            </div>
+          </article>
+
+          <article class="project">
+            <h4>More on LinkedIn</h4>
+            <p>See full experience timeline and certifications.</p>
+            <div class="links">
+              <a href="https://www.linkedin.com/in/srijan-singh-933a36377" target="_blank">
+                www.linkedin.com/in/srijan-singh-933a36377
+              </a>
+            </div>
+          </article>
+
+        </div>
+
+      </section>
+
+      <!-- RIGHT SIDEBAR -->
+      <aside class="right-col">
+        <div class="contact-card">
+          <h3 class="section-title small">Contact</h3>
+          <div class="contact-row"><strong>Email:</strong> srijansinghraghuvanshi@gmail.com</div>
+          <div class="contact-row"><strong>Phone:</strong> 9696197519</div>
+        </div>
+
+        <div class="quick-links">
+          <h3 class="section-title small">Quick Links</h3>
+          <ul>
+            <li><a class="link" href="https://github.com/srijansinghraghuvanshi-png" target="_blank">GitHub</a></li>
+            <li><a class="link" href="https://www.linkedin.com/in/srijan-singh-933a36377" target="_blank">LinkedIn</a></li>
+          </ul>
+        </div>
+      </aside>
+    </main>
+
+    <footer>
+      © <span id="year"></span> Srijan Singh — Built with HTML & CSS.
+    </footer>
+
+  </div>
+
+  <!-- Small script to handle the toggle button (keeps things minimal & robust) -->
+  <script>
+    (function() {
+      const toggle = document.getElementById('theme-toggle');
+      if (!toggle) return;
+
+      // Set aria-pressed according to current theme
+      function updateToggleState() {
+        const theme = document.documentElement.getAttribute('data-theme') || 'light';
+        toggle.setAttribute('aria-pressed', theme === 'dark' ? 'true' : 'false');
+      }
+
+      // switch theme and persist
+      function setTheme(theme) {
+        document.documentElement.setAttribute('data-theme', theme);
+        try { localStorage.setItem('theme', theme); } catch (e) {}
+        updateToggleState();
+      }
+
+      // initialize
+      updateToggleState();
+
+      toggle.addEventListener('click', function() {
+        const current = document.documentElement.getAttribute('data-theme');
+        const next = (current === 'dark') ? 'light' : 'dark';
+        setTheme(next);
+      });
+
+      // allow keyboard activation (Enter/Space)
+      toggle.addEventListener('keydown', function(e) {
+        if (e.key === 'Enter' || e.key === ' ') {
+          e.preventDefault();
+          toggle.click();
+        }
+      });
+
+      // update if system preference changes (but keep stored choice if exists)
+      try {
+        const stored = localStorage.getItem('theme');
+        if (!stored && window.matchMedia) {
+          window.matchMedia('(prefers-color-scheme: dark)').addEventListener('change', e => {
+            document.documentElement.setAttribute('data-theme', e.matches ? 'dark' : 'light');
+            updateToggleState();
+          });
+        }
+      } catch (e) {}
+    })();
+
+    // set current year in footer
+    document.getElementById('year').textContent = new Date().getFullYear();
+  </script>
+</body>
+</html>
