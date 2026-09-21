@@ -1,8 +1,10 @@
-# 🧑‍💻 Srijan Singh — Developer Portfolio
+# 👋 Srijan Singh
 
-Welcome to my personal developer portfolio. I am a BCA student building my foundations in **Python, problem solving, data structures, and AI/ML** while continuing to strengthen my software development skills.
+### BCA Student | Python | DSA | AI/ML Learner
 
-🔗 **Live Portfolio:** https://srijansinghraghuvanshi-png.github.io/Portfolio/
+I’m a BCA student building a strong foundation in **Python, Data Structures & Algorithms, mathematics for AI/ML, and machine learning**. My goal is to understand how AI/ML systems work internally and build practical projects from scratch.
+
+🔗 **Portfolio:** https://srijansinghraghuvanshi-png.github.io/Portfolio/
 
 🔗 **GitHub:** https://github.com/srijansinghraghuvanshi-png
 
@@ -12,101 +14,46 @@ Welcome to my personal developer portfolio. I am a BCA student building my found
 
 ## 🎯 Current Focus
 
-My current learning path is focused on becoming internship-ready for Python/AI/ML roles:
+- 🐍 Python programming
+- 🧠 Data Structures & Algorithms
+- 🔢 NumPy & Pandas
+- 📐 Mathematics for Machine Learning
+- 🤖 Machine Learning fundamentals
+- 🔧 Git & GitHub
+- 🛠️ Building projects and implementing concepts from scratch
 
-- Python programming
-- Data Structures & Algorithms
-- NumPy and Pandas
-- Mathematics for Machine Learning
-- Machine Learning fundamentals
-- Git & GitHub
-- Building practical projects from scratch
-
-I am especially interested in understanding the **math and intuition behind AI/ML**, not only using high-level libraries.
+I’m particularly interested in the **math, intuition, and implementation behind AI/ML**, rather than only using high-level libraries.
 
 ---
 
 ## 🛠️ Skills
 
-### Programming & Development
-- Python — learning and practicing
-- C
-- HTML & CSS
-- Git & GitHub
-
-### Data & AI/ML — Currently Learning
-- NumPy
-- Pandas
-- Mathematics for ML
-- Machine Learning
-- Neural Networks
-
-### Other
-- Problem Solving
-- Microsoft Excel
-- IBM Data Fundamentals
+**Programming:** Python, C, HTML, CSS  
+**Data:** NumPy, Pandas — learning  
+**AI/ML:** Machine Learning, Neural Networks — learning  
+**Tools:** Git, GitHub  
+**Other:** Problem Solving, Excel
 
 ---
 
-## 📂 Featured Repositories
+## 📂 Projects & Practice
 
 ### 🐍 HackerRank Python & DSA
-Python and DSA practice solutions from HackerRank.
+Practice repository containing my Python and DSA problem-solving work.
 
-🔗 https://github.com/srijansinghraghuvanshi-png/HackerRank-Python-DSA
+https://github.com/srijansinghraghuvanshi-png/HackerRank-Python-DSA
 
-### 🌐 Developer Portfolio
-My responsive portfolio website built with HTML and CSS.
+### 🌐 Portfolio
+Personal responsive portfolio website built with HTML and CSS.
 
-🔗 https://github.com/srijansinghraghuvanshi-png/Portfolio
+https://github.com/srijansinghraghuvanshi-png/Portfolio
 
-### 🧮 C Calculator Projects
-Beginner C programming projects created while strengthening programming fundamentals.
-
----
-
-## 🚀 Projects
-
-### 🎮 Scratch Basketball Challenge
-An interactive basketball game built with Scratch.
-
-- Arrow-key controls
-- Score system
-- Timer functionality
-
-🔗 Live project: https://scratch.mit.edu/projects/1251575591/
-
-### 🌐 Personal Portfolio
-A responsive portfolio website featuring:
-
-- Introduction and developer profile
-- Skills
-- Projects
-- Contact information
-- Dark/light mode
+### 🧮 C Programming Projects
+Beginner C projects created while strengthening programming fundamentals.
 
 ---
 
-## 🏅 Certifications & Coursework
-
-- **CS50 — Introduction to Computer Science** — In Progress
-- **IBM Data Fundamentals Certification**
-- Microsoft Excel experience
-
----
-
-## 💼 Experience
-
-**Data Entry Operator — ARMEKA FINANCIAL CONSULTANTS PVT LTD**  
-*Jan 2025 – Jun 2025 | Remote*
-
-- Worked on data processing, verification, and reporting
-- Maintained data accuracy
-- Developed practical communication and analytical skills
-
----
-
-## 📈 Learning Roadmap
+## 🚀 Learning Roadmap
 
 ```text
 Python
@@ -126,31 +73,41 @@ Deep Learning / NLP
 Transformers from Scratch
 ```
 
-The goal is to build progressively stronger projects and develop a solid understanding of how AI/ML systems work internally.
+### 🔭 Planned Technical Projects
 
----
-
-## 🔭 Future Projects
-
-Planned projects as I progress:
-
-- Machine Learning projects with real datasets
 - ML algorithms implemented from scratch
 - Neural Network from scratch
 - NLP projects
 - Attention mechanism implementation
 - Mini Transformer from scratch
+- Practical AI/ML projects using real datasets
 
-> Projects will be added as they are actually completed — this profile is intended to reflect real learning and work.
-
----
-
-## 📫 Contact
-
-- **Email:** srijansinghraghuvanshi-png@gmail.com
-- **GitHub:** https://github.com/srijansinghraghuvanshi-png
-- **LinkedIn:** https://www.linkedin.com/in/srijan-singh-933a36377
+> I’ll add projects as I actually complete them so the profile reflects real work and progress.
 
 ---
 
-⭐ Thanks for visiting my profile!
+## 💼 Experience
+
+**Data Entry Operator — ARMEKA FINANCIAL CONSULTANTS PVT LTD**  
+*Jan 2025 – Jun 2025 | Remote*
+
+- Data processing and verification
+- Reporting and maintaining data accuracy
+- Developed practical communication and analytical skills
+
+---
+
+## 🏅 Certifications & Coursework
+
+- CS50 — Introduction to Computer Science — In Progress
+- IBM Data Fundamentals Certification
+- Microsoft Excel experience
+
+---
+
+## 📫 Connect
+
+- GitHub: https://github.com/srijansinghraghuvanshi-png
+- LinkedIn: https://www.linkedin.com/in/srijan-singh-933a36377
+
+⭐ Thanks for visiting!
