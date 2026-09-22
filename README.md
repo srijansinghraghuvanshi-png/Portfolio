@@ -2,9 +2,9 @@
 
 ### BCA Student | Python | DSA | AI/ML Learner
 
-I’m a BCA student building a strong foundation in **Python, Data Structures & Algorithms, mathematics for AI/ML, and machine learning**. My goal is to understand how AI/ML systems work internally and build practical projects from scratch.
+I’m a BCA student building my foundation in **Python, Data Structures & Algorithms, mathematics for AI/ML, and machine learning**. I like understanding concepts properly and building small projects as I learn.
 
-🔗 **Portfolio:** https://srijansinghraghuvanshi-png.github.io/Portfolio/
+🔗 **Live Portfolio:** https://srijansinghraghuvanshi-png.github.io/Portfolio/
 
 🔗 **GitHub:** https://github.com/srijansinghraghuvanshi-png
 
@@ -20,11 +20,9 @@ I’m a BCA student building a strong foundation in **Python, Data Structures & 
 - 📐 Mathematics for Machine Learning
 - 🤖 Machine Learning fundamentals
 - 🔧 Git & GitHub
-- 🛠️ Building projects and implementing concepts from scratch
+- 🛠️ Small projects and implementations from scratch
 
-I’m particularly interested in the **math, intuition, and implementation behind AI/ML**, rather than only using high-level libraries.
-
----
+I’m especially interested in the **math, intuition, and implementation behind AI/ML**, not just using ready-made tools.
 
 ## 🛠️ Skills
 
@@ -34,22 +32,24 @@ I’m particularly interested in the **math, intuition, and implementation behin
 **Tools:** Git, GitHub  
 **Other:** Problem Solving, Excel
 
----
-
 ## 📂 Projects & Practice
 
 ### 🐍 HackerRank Python & DSA
-Practice repository containing my Python and DSA problem-solving work.
+Python and DSA practice as I improve my problem-solving skills.
 
 https://github.com/srijansinghraghuvanshi-png/HackerRank-Python-DSA
 
-### 🌐 Portfolio
-Personal responsive portfolio website built with HTML and CSS.
+### 🌐 Portfolio Website
+A personal responsive portfolio website built with HTML and CSS.
 
 https://github.com/srijansinghraghuvanshi-png/Portfolio
 
-### 🧮 C Programming Projects
-Beginner C projects created while strengthening programming fundamentals.
+### 🧮 C Calculator Projects
+Small beginner C projects created while strengthening programming fundamentals.
+
+https://github.com/srijansinghraghuvanshi-png/basic-calculator-c
+
+https://github.com/srijansinghraghuvanshi-png/calculater-using-c
 
 ---
 
@@ -84,8 +84,6 @@ Transformers from Scratch
 
 > I’ll add projects as I actually complete them so the profile reflects real work and progress.
 
----
-
 ## 💼 Experience
 
 **Data Entry Operator — ARMEKA FINANCIAL CONSULTANTS PVT LTD**  
@@ -95,15 +93,11 @@ Transformers from Scratch
 - Reporting and maintaining data accuracy
 - Developed practical communication and analytical skills
 
----
-
 ## 🏅 Certifications & Coursework
 
 - CS50 — Introduction to Computer Science — In Progress
 - IBM Data Fundamentals Certification
 - Microsoft Excel experience
-
----
 
 ## 📫 Connect
 
