@@ -28,7 +28,7 @@ I’m especially interested in the **math, intuition, and implementation behind 
 
 **Programming:** Python, C, HTML, CSS  
 **Data:** NumPy, Pandas — learning  
-**AI/ML:** Machine Learning, Neural Networks — learning  
+**AI/ML:** AI/ML fundamentals — learning  
 **Tools:** Git, GitHub  
 **Other:** Problem Solving, Excel
 
